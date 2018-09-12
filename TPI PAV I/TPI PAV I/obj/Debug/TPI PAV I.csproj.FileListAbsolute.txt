@@ -1,0 +1,14 @@
+D:\TPI PAV I\TPI PAV I\bin\Debug\TPI PAV I.exe.config
+D:\TPI PAV I\TPI PAV I\bin\Debug\TPI PAV I.exe
+D:\TPI PAV I\TPI PAV I\bin\Debug\TPI PAV I.pdb
+D:\TPI PAV I\TPI PAV I\obj\Debug\TPI_PAV_I.frmLogin.resources
+D:\TPI PAV I\TPI PAV I\obj\Debug\TPI_PAV_I.Properties.Resources.resources
+D:\TPI PAV I\TPI PAV I\obj\Debug\TPI PAV I.csproj.GenerateResource.Cache
+D:\TPI PAV I\TPI PAV I\obj\Debug\TPI PAV I.exe
+D:\TPI PAV I\TPI PAV I\obj\Debug\TPI PAV I.pdb
+D:\TPI PAV I\TPI PAV I\obj\Debug\TPI PAV I.csprojResolveAssemblyReference.cache
+D:\TPI PAV I\TPI PAV I\obj\Debug\TPI_PAV_I.frmMenu.resources
+D:\TPI PAV I\TPI PAV I\obj\Debug\PAV_I_06_09_2018.frmUsuario.resources
+C:\Users\usuario\Desktop\TPI PAV I\TPI PAV I\bin\Debug\TPI PAV I.exe.config
+C:\Users\usuario\Desktop\TPI PAV I\TPI PAV I\obj\Debug\TPI PAV I.exe
+C:\Users\usuario\Desktop\TPI PAV I\TPI PAV I\obj\Debug\TPI PAV I.pdb
